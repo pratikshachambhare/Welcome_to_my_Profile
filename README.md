@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikshachambhare3&label=Profile%20views&color=0e75b6&style=flat" alt="pratikshachambhare3" /> </p>
 
-- ⚡<p font="bold">Full Stack Developer|Java programmer|MCA</p>
+- ⚡Full Stack Developer|Java programmer|MCA
 
 - 📫 How to reach me **pratikshachambhare48@gmail.com**
 
